@@ -1,2 +1,2 @@
 # APIfetch
-api
+It was for fun
